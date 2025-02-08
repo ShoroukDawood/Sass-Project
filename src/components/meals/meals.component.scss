@@ -1,0 +1,10 @@
+@import "../../shared/style/variables.scss";
+
+.font-pacifico {
+    font-family: $font-family-pacifico;
+}
+h1.title {
+    background: -webkit-linear-gradient(#f29724, #c90519);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
